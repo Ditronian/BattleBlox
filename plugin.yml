@@ -1,0 +1,19 @@
+name: BattleBlox
+version: 1.0
+main: Main.BattleBlox
+author: Ditronian
+description: A test plugin!
+
+commands:
+  battleblox:
+    usage: /<command>
+    description: The battleblox command
+  kit:
+    usage: /<command>
+    description: Spawns a kit for the player
+  select:
+    usage: /<command>
+    description: Selects a respawn point
+  kd:
+    usage: /<command>
+    description: Shows players kd

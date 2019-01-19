@@ -1,0 +1,24 @@
+To Do Next:
+	Finish making glass box around spawn block
+	Add sound effect to capture of objective
+	Restrict commands via permissions
+	Auto-Team balancing if attackers fail to capture objective after t minutes.  Move lowest kd defender to attackers (on death?)
+		No removing last defender
+	
+
+
+Testing:
+	Conquest:
+		Connect deaths to ticket loss
+		Connect tickets to victory checking
+		Test victory conditions (1 team captures all points, or all other teams below 0 tickets).  Make sure correct messages are shown
+		Test if removing team's tickets counter is a good idea after defeat
+	Rush:
+		Sound effect on capture
+	Other:
+		Change chat color bk to white on event end.
+	
+	
+	
+Long term Next:
+	Game Mode: Push Map, basically Rush but both teams can capture
